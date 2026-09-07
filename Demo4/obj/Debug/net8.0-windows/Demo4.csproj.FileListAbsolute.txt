@@ -1,0 +1,16 @@
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\bin\Debug\net8.0-windows\Demo4.exe
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\bin\Debug\net8.0-windows\Demo4.deps.json
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\bin\Debug\net8.0-windows\Demo4.runtimeconfig.json
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\bin\Debug\net8.0-windows\Demo4.dll
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\bin\Debug\net8.0-windows\Demo4.pdb
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\Demo4.Form1.resources
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\Demo4.csproj.GenerateResource.cache
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\Demo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\Demo4.AssemblyInfoInputs.cache
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\Demo4.AssemblyInfo.cs
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\Demo4.csproj.CoreCompileInputs.cache
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\Demo4.dll
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\refint\Demo4.dll
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\Demo4.pdb
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\Demo4.genruntimeconfig.cache
+D:\UTC2\Lap_Trinh_Truc_Quan\Demo4\obj\Debug\net8.0-windows\ref\Demo4.dll
